@@ -1,0 +1,2 @@
+SUB(N1,N2)
+VAR,RLST,N1-N2 /* Obs: N1 needs to be greater than N2. 
